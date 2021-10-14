@@ -1,0 +1,29 @@
+there are two ways
+
+one using VS:
+right click the Project
+Manage NuGet Package ...
+the packages all have full name "entityFrameworkCore"
+
+the base project o the EntittyFrameworkCore only have the absolute core of the
+EF Core. And it doesn't have all the logic you want apply to all scenarios.
+
+EF Core will need to know what database or date store you plan on working with,
+those providers are in individual packages. so, you only need to install the one you
+want.
+
+but we need some kind of provider to interact with the database
+
+to bring the EF Core along with its provider it is easier to start targeting the provider
+you gonna be working with and let NuGet depedencies to pull in the rest include the base
+EF Core package.
+
+we will persist our data in SqlServer local DB , which got installed as part of
+the VS installation.
+
+Microsoft.EntityFrameworkCore.SqlServer
+
+2. Using the Package Manager Console
+
+PM> install-package microsoft.entityframeworkCore.sqlserver
+

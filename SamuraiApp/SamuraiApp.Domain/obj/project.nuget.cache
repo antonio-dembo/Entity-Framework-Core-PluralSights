@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4GhJQb112GNfkbXqkjNCmRF5PGlu48/0FNvPWDr8qM18fTt013dlJH+7XI9LExs3+U1SvoJvVE+sjtEfpAwFQ==",
+  "dgSpecHash": "Vv+Q9X+IOFr4hDp+bHd/qJSTYgqbNWkzWK8SuJBzZHj/4jGRlBLAtuMFs2uP6jHJvaDCivKCcyNh/1bIrbk+eQ==",
   "success": true,
-  "projectFilePath": "D:\\Recursos\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "projectFilePath": "C:\\Resourses\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

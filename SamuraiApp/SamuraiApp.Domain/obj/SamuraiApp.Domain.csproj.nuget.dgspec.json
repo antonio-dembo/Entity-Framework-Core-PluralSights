@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Recursos\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {}
+    "C:\\Resourses\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Recursos\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+    "C:\\Resourses\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Recursos\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "projectUniqueName": "C:\\Resourses\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
         "projectName": "SamuraiApp.Domain",
-        "projectPath": "D:\\Recursos\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\beboa\\.nuget\\packages\\",
-        "outputPath": "D:\\Recursos\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
+        "projectPath": "C:\\Resourses\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\antonio_dembo\\.nuget\\packages\\",
+        "outputPath": "C:\\Resourses\\Entity-Framework-Core-PluralSights\\SamuraiApp\\SamuraiApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\beboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\antonio_dembo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,7 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dcsartifacts.dell.com/artifactory/api/nuget/nuget-local": {}
         },
         "frameworks": {
           "net5.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
